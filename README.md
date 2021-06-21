@@ -22,7 +22,7 @@ Hi, I'm [Sukumar , a passionate self-taught Full Stack web developer and a freel
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/sukumar047/sukumar047/blob/main/thoughtworks-gif_dribbble.gif" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:esukumar1011@gamil.com) :)
 - 💬 Ask me about anything, I am happy to help;
